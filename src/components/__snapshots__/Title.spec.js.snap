@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+.emotion-0 {
+  color: rebeccapurple;
+}
+
+<h1
+  className="emotion-0"
+>
+  emotion-theming-jest
+</h1>
+`;

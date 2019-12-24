@@ -3,7 +3,7 @@ import { ThemeProvider } from "emotion-theming"
 
 import Title from "./Title"
 
-const theme = {
+export const theme = {
   colors: {
     primary: "rebeccapurple",
   },
